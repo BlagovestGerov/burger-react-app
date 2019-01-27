@@ -19,12 +19,14 @@
 }
 
 .Open {
-    transform: transateY(0);
+    transform: transateX(0);
 }
 
 .Close {
     transform: translateX(-100%);
 }
+
+
 
 .Logo{
     height: 11%;
